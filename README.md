@@ -6,3 +6,9 @@ My name is Vanax Kampff, and I am a senior college student in a physics major. I
 - **Statistical Analysis:** Building my understanding of statistical methods and how to use them to interpret data.
 - **SQL and Databases:** Interested in learning how to query, organize, and work with larger datasets.
 - **Technical Communication:** Working on explaining data, methods, and results clearly to others.
+
+## Projects
+
+Projects are currently in progress. I plan to add
+examples of my programming, data analysis, and
+physics coursework as I develop my portfolio.
