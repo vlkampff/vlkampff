@@ -7,6 +7,16 @@ My name is Vanax Kampff, and I am a senior college student in a physics major. I
 - **SQL and Databases:** Interested in learning how to query, organize, and work with larger datasets.
 - **Technical Communication:** Working on explaining data, methods, and results clearly to others.
 
+## Data Science Career Goals
+
+My current goal is to explore careers in data analysis and related fields, including possible government and GIS-related positions. Through my physics degree, I've found that I enjoy working with data, organizing information, and interpreting results. I want to continue developing my Python, statistical analysis, and SQL skills to better prepare for these careers. I'm particularly interested in finding a position where I can apply my analytical skills to practical problems while continuing to learn.
+
+## Contact
+
+- Location: Oregon State University, Corvallis, Oregon
+- Email: OSU school email available upon request
+- GitHub: https://github.com/vlkampff
+
 ## Projects
 
 Projects are currently in progress. I plan to add
