@@ -9,7 +9,15 @@ My name is Vanax Kampff, and I am a senior college student in a physics major. I
 
 ## Data Science Career Goals
 
-My current goal is to explore careers in data analysis and related fields, including possible government and GIS-related positions. Through my physics degree, I've found that I enjoy working with data, organizing information, and interpreting results. I want to continue developing my Python, statistical analysis, and SQL skills to better prepare for these careers. I'm particularly interested in finding a position where I can apply my analytical skills to practical problems while continuing to learn.
+My primary career goal is to find a position in data analysis or a related technical field where I can apply the skills I have developed through my physics education. While I enjoy studying physics, I am more interested in working with data, programming, and solving practical problems than pursuing a career in academic research.
+
+Throughout my coursework at Oregon State University, I have developed experience with Python, MATLAB, statistical analysis, and mathematical modeling. One project I particularly enjoyed involved developing a Python program to calculate electric potentials and fields in a three-dimensional system. This required implementing numerical methods, troubleshooting code, and creating visualizations to understand the results. I also worked with a teammate to verify that our program was producing reasonable results.
+
+These experiences have helped me realize that I enjoy organizing information, analyzing results, and finding ways to communicate complicated information more clearly. I believe these skills could transfer well into careers such as data analysis or Geographic Information Systems (GIS).
+
+One area I would like to improve is my experience with tools commonly used in professional data analysis. Although I have worked with Python and Excel, I would like to become more familiar with databases, SQL, and other software used by employers. I also want to continue improving my ability to communicate technical results to people without a scientific background.
+
+Ultimately, I hope to find a stable career where I can continue developing my technical skills while contributing to practical projects.
 
 ## Contact
 
